@@ -1,20 +1,74 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🌟 My React Portfolio Website
 
-# Run and deploy your AI Studio app
+A modern, responsive, and fully customizable portfolio website built using React.js, showcasing my skills, projects, and experience as a web developer.
 
-This contains everything you need to run your app locally.
+🚀 Features
 
-View your app in AI Studio: https://ai.studio/apps/drive/1FU3SyKakBrcUh4Ob6EqN9YGFQwsRJ7Hp
+⚡ Built with React.js — Fast, scalable, and easy to maintain.
 
-## Run Locally
+🎨 Modern UI/UX Design — Clean layout with beautiful animations and responsive design.
 
-**Prerequisites:**  Node.js
+📱 Mobile Friendly — Fully responsive across all devices.
+
+🧠 Dynamic Data — Projects, skills, and experience loaded from JSON or API for easy updates.
+
+🌈 Smooth Animations — Using Framer Motion & CSS transitions for a professional feel.
+
+🔗 Social Links Integration — GitHub, LinkedIn, Twitter, and more.
+
+📨 Contact Form — Functional contact form using EmailJS or backend API.
+
+🛠️ Tech Stack
+
+Frontend: React.js, Tailwind CSS / Bootstrap
+
+Routing: React Router
+
+Animations: Framer Motion / AOS
+
+Icons: React Icons / Lucide
+
+Deployment: Vercel / Netlify / GitHub Pages
+
+📸 Preview
+
+⚙️ Installation
+
+Clone the repository
+
+git clone https://github.com/yourusername/react-portfolio.git
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Navigate to the project folder
+
+cd react-portfolio
+
+
+Install dependencies
+
+npm install
+
+
+Run the project
+
+npm start
+
+🧩 Customization
+
+Update your details in src/data/ or config.js
+
+Replace default images and icons with your own
+
+Modify colors and fonts in the Tailwind or CSS files
+
+🌍 Live Demo
+
+🔗 View Live Portfolio http://localhost:3000/
+
+💬 Contact
+
+📧 Email: your@email.com
+
+🔗 LinkedIn: linkedin.com/in/yourprofile
+
+🐙 GitHub: github.com/yourusername
