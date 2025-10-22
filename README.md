@@ -36,7 +36,7 @@ Deployment: Vercel / Netlify / GitHub Pages
 
 Clone the repository
 
-git clone https://github.com/yourusername/react-portfolio.git
+git clone https://github.com/thilankavindu/Porthfolio_React.git
 
 
 Navigate to the project folder
@@ -67,8 +67,8 @@ Modify colors and fonts in the Tailwind or CSS files
 
 💬 Contact
 
-📧 Email: your@email.com
+📧 Email: kavinduthilan4@gmail.com
 
 🔗 LinkedIn: linkedin.com/in/yourprofile
 
-🐙 GitHub: github.com/yourusername
+🐙 GitHub: github.com/thilankavindu
